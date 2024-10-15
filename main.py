@@ -10,8 +10,8 @@ from buttonnnn import admin_panel_keyboard  # Import the keyboard function
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-API_TOKEN = '7963630518:AAGmNEANYJsrHvA9A96DlXKB8LR_vXtChPU'  # Replace with your actual token
-ADMIN_ID = ['6678521239', "7236785651", '6512709243']  # Replace with your actual admin ID
+API_TOKEN = ''  # Replace with your actual token
+ADMIN_ID = []  # Replace with your actual admin ID
 
 # Bot and dispatcher creation
 bot = Bot(token=API_TOKEN)
